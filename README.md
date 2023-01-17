@@ -1,2 +1,2 @@
 # Calculadora
-Calculadora utilizando HTML, Css e Java Script
+Calculadora do windows fazendo uso das linguagens HTML, Css e Java Script
